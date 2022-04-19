@@ -18,7 +18,7 @@ In preparation for this workshop, you will need to have an R Studio Cloud accoun
 
 ![Source Button Location](image1.png)
 
- - Rename your project by clicking on the name at the top.  Name it whatever you like (eg. "Intro to R Workshop")
+ - Rename your project by clicking on the name at the top.  Name it whatever you like (eg. "Making Function with R Workshop")
 
 ![Title Change](image2.png)
 
