@@ -25,7 +25,9 @@ In preparation for this workshop, you will need to have an R Studio Cloud accoun
  - And thats it!  You are all set for the workshop
 
 ----
-## Conditional Statement Symbols
+## Helpful Information
+
+**Conditional Statement Symbols**
 | Symbol | Description |
 |----|-------------|
 | == | Is equal to |
@@ -36,7 +38,7 @@ In preparation for this workshop, you will need to have an R Studio Cloud accoun
 | >= |	Is greater than or equal to|
 
 
-## Format of "if" statement
+**Format of "if" statement**
 ```R 
 
 if (CONDITIONAL-STATEMENT) {
@@ -49,25 +51,25 @@ if (CONDITIONAL-STATEMENT) {
   
 ```
 
-## Format of "for" loop
+**Format of "for" loop**
 ```R 
 for (NEW-VARIABLE in VECTOR) {
     CODE-TO-EXECUTE
     }
 ```
-## Format of  "while" loop
+**Format of  "while" loop**
 ```R 
 while (CONDITIONAL-STATEMENT) {
     CODE-TO-EXECUTE
 }
 ```
-## Format of "repeat" loop
+**Format of "repeat" loop**
 ```R 
 repeat {
     CODE-TO-EXECUTE  (REMEMBER TO INCLUDE A break() TO STOP THE LOOP)
 }
 ```
-## Format for Function
+**Format for Function**
 ```R 
 FUNCTION-NAME <- function(ARGUMENT-VARIABLE-1, ARGUMENT-VARIABLE-2, …) {
 return(OUTPUT-OF-FUNCTION)
