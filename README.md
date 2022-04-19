@@ -1,4 +1,4 @@
-![Tool Logo](Function-R.jpg)
+![Tool Logo](Functions-R.jpg)
 
 
 # Making Functions in R
@@ -76,28 +76,48 @@ return(OUTPUT-OF-FUNCTION)
 ## Workshop Tasks
 
 **Task Set #1**  
+A. Create a variable that contains a number  
+B. Create some code that assesses the number and returns one of the following statements:  
+ - The number is larger than or equal to 1000
+ - The number is larger than or equal to 500 but less than 1000
+ - The number is larger than or equal to 100 but less than 500
+ - The number is 14
+ - The number is less than 100 and is not 14  
   
+C. Test out your code by redeclaring your variable with values that will get each result and then running your code again.  
+D. When you are done type “CODE COMPLETE!!” into the chat.  
+
   
 **Task Set #2**  
- 
+
+A. Make a variable called numList that contains a list of 10 numbers of your choice using the c() function  
+B. Write a for loop that runs your code from the last set of questions on each number in the list.  
+C. Make a numLoops variable that has a value of 0  
+D. Make a numBig variable with a value over 100,000  
+E. Use a while loop to determine how many times you can subtract 14 from your number before it is smaller than 100  
+F. Make a variable called myNum with a value that is at least 6 digits long  
+G. Make a variable called loopGuess with a value of 0  
+H. Find out how long it would take for a repeat loop to go from 0 to your number  
+I. When you are done type “LOOPS MASTERED!!!” into the chat   
+
   
 **Task Set #3**  
 
-  
-**Task Set #4**  
+A. Make a variable called myList containing ten numbers between 50 and 150  
+B. Make a function that, when given the variable, will tell you how many of the numbers smaller than 100 and how many are equal to or greater than 100.  
+C. When you have finished type “GOT IT!!” in the chat  
+BONUS. Make it so that if there is the same amount of numbers below 100 as there are equal to or above, the result is displayed with “Perfect Balance!” at the end  
 
-  
-**Task Set #5**  
 
-  
-**Task Set #6**  
 
 ## Follow Up Material
-Add in names of books, links to websites, or any other reccomendations for follow up materials that could represent the "Next Step" in an attendees learning after the workshop.  helpful links like the Programming Historians or W3Schools are good examples.
+If you are looking to continue enhancing your knowledge of R, check out our other R workshops or try out one of the options below!
 
- 
- 
- 
+[YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)   
+  
+[W3Schools R Tutorial](https://www.w3schools.com/r/default.asp)
+  
+   
 
   
 **This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to [Experience BU](https://experiencebu.brocku.ca/organization/dsl) if you are a Brock affiliate or [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350) for external attendees.**
