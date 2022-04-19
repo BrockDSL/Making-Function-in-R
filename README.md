@@ -24,6 +24,7 @@ In preparation for this workshop, you will need to have an R Studio Cloud accoun
 
  - And thats it!  You are all set for the workshop
 
+----
 ## Conditional Statement Symbols
 | Symbol | Description |
 |----|-------------|
@@ -73,6 +74,7 @@ return(OUTPUT-OF-FUNCTION)
 }
 ```
 
+----
 ## Workshop Tasks
 
 **Task Set #1**  
@@ -109,8 +111,8 @@ C. When you have finished type “GOT IT!!” in the chat
 BONUS. Make it so that if there is the same amount of numbers below 100 as there are equal to or above, the result is displayed with “Perfect Balance!” at the end  
 
 
-
-## Follow Up Material
+----
+## Next Steps
 If you are looking to continue enhancing your knowledge of R, check out our other R workshops or try out one of the options below!
 
 [YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)   
