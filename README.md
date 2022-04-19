@@ -27,7 +27,8 @@ In preparation for this workshop, you will need to have an R Studio Cloud accoun
 ----
 ## Helpful Information
 
-**Conditional Statement Symbols**
+**Conditional Statement Symbols**  
+  
 | Symbol | Description |
 |----|-------------|
 | == | Is equal to |
