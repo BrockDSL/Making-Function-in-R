@@ -1,20 +1,28 @@
-Add in the workshop image here using the referential link at the bottom of the README file
-
-![Tool Logo](Image filename)
+![Tool Logo](Function-R.jpg)
 
 
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process
+# Making Functions in R
+In this workshop you will get begin developing in R to the point that you can start crafting the tools that you need for the projects that are important to you. This workshop will cover:
+ - If statements and conditionals
+ - Three different kinds of Loops
+ - And creating your own functions
 
+----
 ## Setup Instructions
-In preparation for this workshop, you will need...
+In preparation for this workshop, you will need to have an R Studio Cloud account and have a new project open.  Follow the steps below to get set up.
 
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
+- (Skip this step if you already have an R Studio Cloud account) Begin by going to [https://rstudio.cloud/](https://rstudio.cloud/) and signing up for an account by clicking on the "Sign Up" text at the top right of the screen, then click the grey "Sign Up" button and fill in the form (or use the convenient Google or GitHub options if you have one of those accounts)
+- Log in to R Studio Cloud
+- You should arrive at your workspace.  From here click on the button that says, "New Project" and select "New R Studio Project"
+- Once your project has finished building, open the "Source" window by clicking on the double box symbol in the top right corner of the "Console" window
 
-For all of the above, keep in mind that some of our attendees could be using machines on campus and therefore might have limitations in regards to downloading tools and files.
+![Source Button Location](image1.jpg)
+
+ - Rename your project by clicking on the name at the top.  Name it whatever you like (eg. "Intro to R Workshop")
+
+![Title Change](image2.jpg)
+
+ - And thats it!  You are all set for the workshop
 
 ## Helpful Materials
 Add in any helpful resources, code snippets, cheat sheets, or other relevant information here.
