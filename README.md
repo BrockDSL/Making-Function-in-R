@@ -7,6 +7,8 @@ In this workshop you will get begin developing in R to the point that you can st
  - Three different kinds of Loops
  - And creating your own functions
 
+*Estimated workshop length: 2 hours*
+
 ----
 ## Setup Instructions
 In preparation for this workshop, you will need to have an R Studio Cloud account and have a new project open.  Follow the steps below to get set up.
