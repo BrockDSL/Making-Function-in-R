@@ -72,6 +72,17 @@ repeat {
     CODE-TO-EXECUTE  (REMEMBER TO INCLUDE A break() TO STOP THE LOOP)
 }
 ```
+**Format of Timer**
+```
+if (1==1){
+  startTime <- Sys.time()
+  
+  YOUR CODE HERE
+  
+  endTime<- Sys.time()
+  print(endTime - startTime)
+}
+```
 **Format for Function**
 ```R 
 FUNCTION-NAME <- function(ARGUMENT-VARIABLE-1, ARGUMENT-VARIABLE-2, …) {
