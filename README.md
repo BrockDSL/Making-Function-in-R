@@ -2,7 +2,10 @@
 
 
 # Making Functions in R
-This workshop will teach attendees how to begin developing their own functions in R.  Attendees will learn the core elements of creating functions including If statements, conditionals, loops, and finally the code used to create functions with those elements.
+In this workshop you will get begin developing in R to the point that you can start crafting the tools that you need for the projects that are important to you. This workshop will cover:
+ - If statements and conditionals
+ - Three different kinds of Loops
+ - And creating your own functions
 
 A basic understanding of the R programming language is reccomended for this workshop.
 
