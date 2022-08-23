@@ -7,7 +7,7 @@ In this workshop you will get begin developing in R to the point that you can st
  - Three different kinds of Loops
  - And creating your own functions
 
-A basic understanding of the R programming language is reccomended for this workshop.
+A basic understanding of the R programming language is recommended for this workshop.
 
 *Estimated workshop length: 2 hours*
 
